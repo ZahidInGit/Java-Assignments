@@ -27,9 +27,9 @@ F:\Java
 
 12. Open Notepad.
 
-13. Write the Java code to print Hello, World!.
+13. Write the Java code to print Hello World!.
 
-14. Save the file as hello.java.
+14. Save the file as HelloWorld.java.
 
 15. Navigate to the folder where the file is saved.
 
@@ -37,14 +37,14 @@ F:\Java
 
 17. Compile the program using:
 
-javac hello.java
+javac HelloWorld.java
 
 
 18. Run the program using:
 
-java hello
+java HelloWorld
 
 
 19. The program will display:
 
-Hello, World!
+Hello World!
