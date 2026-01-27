@@ -62,7 +62,7 @@ public class StudentResult {
         else return 0.0;
     }
 
-    // Function to get letter grade from CGPA
+    
     public static String getLetterGrade(double gpa) {
         if (gpa >= 4.0) return "A+";
         else if (gpa >= 3.75) return "A";
@@ -72,3 +72,6 @@ public class StudentResult {
         else if (gpa >= 2.75) return "B-";
         else if (gpa >= 2.5) return "C+";
         else if (gpa >= 2.25) return "C";
+        else if (gpa >= 2.0) return "D";
+        else return "F";
+    }
